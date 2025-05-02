@@ -1,8 +1,6 @@
 {
-
-"tokens": [
-"Token1"
-
-]
-
+  "tokens": [
+    "Token1",
+    "12345"
+  ]
 }
